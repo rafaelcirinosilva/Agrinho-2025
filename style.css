@@ -14,7 +14,9 @@ body {
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
-
+img{
+    mex-width:100%;
+}
 
 .conteudo-principal {
     display: flex;
