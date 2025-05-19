@@ -11,11 +11,9 @@
 
 body {
     background-color: var(--cor-de-fundo);
+    background-image: images.jpeg;
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
-}
-img{
-    mex-width:100%;
 }
 
 .conteudo-principal {
